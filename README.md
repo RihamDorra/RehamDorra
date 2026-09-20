@@ -134,7 +134,7 @@ A React task-management application designed to practice interactive drag-and-dr
 
 ## 📫 Connect With Me
 
-* GitHub: [@RehamDorra](https://github.com/RehamDorra)
+* GitHub: [@RihamDorra](https://github.com/RihamDorra)
 
 ---
 
